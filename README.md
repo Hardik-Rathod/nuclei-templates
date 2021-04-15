@@ -1,2 +1,2 @@
-# nucleu-templates
+# nuclei-templates
 Added here for saving.
